@@ -2,8 +2,8 @@
 
 /**
 * _puts_recursion - Prints a string, followed by a new line.
-* @s: Pointer to the string
-* Return: void
+*@s: Pointer to the string
+*Return: void
 */
 void _puts_recursion(char *s);
 {
